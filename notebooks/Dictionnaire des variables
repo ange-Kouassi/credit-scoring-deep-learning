@@ -1,0 +1,34 @@
+Dictionnaire des variables :
+
+  SeriousDlqin2yrs
+  → CIBLE : Defaut de paiement (1=oui, 0=non)
+
+  RevolvingUtilizationOfUnsecuredLines
+  → Taux utilisation credit revolving
+
+  age
+  → Age du client (annees)
+
+  NumberOfTime30-59DaysPastDueNotWorse
+  → Retards 30-59 jours
+
+  DebtRatio
+  → Ratio dette/revenus
+
+  MonthlyIncome
+  → Revenu mensuel (FCFA)
+
+  NumberOfOpenCreditLinesAndLoans
+  → Nombre de credits ouverts
+
+  NumberOfTimes90DaysLate
+  → Retards +90 jours
+
+  NumberRealEstateLoansOrLines
+  → Credits immobiliers
+
+  NumberOfTime60-89DaysPastDueNotWorse
+  → Retards 60-89 jours
+
+  NumberOfDependents
+  → Nombre de personnes a charge
